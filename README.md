@@ -32,3 +32,6 @@ on a laptop. Other things such as notification daemons and custom keyboard
 bindings must be setup by patching dwm itself so please go read dwm docs if you
 want to use some of these configs.
 
+## TODO
+
+- [ ] Create a setup script
